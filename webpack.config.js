@@ -24,14 +24,14 @@ const config = {
                     __dirname,
                     "public/icons/icon-192x192.png"
                     ),
-                    size: [72, 96, 128, 144, 152, 192, 384, 512]
+                    sizes: [72, 96, 128, 144, 152, 192, 384, 512]
             },
             {
                 src: path.resolve(
                     __dirname,
                     "public/icons/icon-512x512.png"
                     ),
-                    size: [72, 96, 128, 144, 152, 192, 384, 512]
+                    sizes: [72, 96, 128, 144, 152, 192, 384, 512]
             }
             ]
         })
